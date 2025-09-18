@@ -36,6 +36,13 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 
 ---
 
+## 🔄 Latest Activity
+<!--START_SECTION:activity-->
+<!-- This section updates automatically with your recent GitHub activity -->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/pablo-olivera)  
 - [GitHub](https://github.com/pgolivera)  
