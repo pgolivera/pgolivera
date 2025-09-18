@@ -32,7 +32,8 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 ---
 
 ## 📈 GitHub Stats
-![Pablo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pgolivera&show_icons=true&theme=default)
+![Pablo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pgolivera&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true&custom_title=Pablo%20Olivera's%20Stats&token=PAT_1)
+
 
 ---
 
