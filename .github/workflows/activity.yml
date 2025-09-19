@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: teoxoy/profile-readme-stats@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
+          token: ${{ secrets.PROFILE_README_TOKEN }}
