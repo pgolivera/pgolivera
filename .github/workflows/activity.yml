@@ -2,7 +2,7 @@ name: Update README with GitHub Activity
 
 on:
   schedule:
-    - cron: "0 9 * * *" # corre cada hora, podés dejarlo una vez al día
+    - cron: "0 9 * * *" # corre una vez al día
   workflow_dispatch: # permite correrlo manualmente
 
 jobs:
