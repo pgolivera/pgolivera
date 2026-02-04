@@ -40,7 +40,7 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 
 ## 🔄 Latest Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [pgolivera/ceci-web](https://github.com/pgolivera/ceci-web)
+1. ❌ Closed PR [#17](https://github.com/pgolivera/diagnovet/pull/17) in [pgolivera/diagnovet](https://github.com/pgolivera/diagnovet)
 <!--END_SECTION:activity-->
 
 ---
