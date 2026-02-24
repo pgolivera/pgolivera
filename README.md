@@ -20,19 +20,22 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 
 ## 🌟 Featured Projects
 
-- [**Wordle Clone**](https://github.com/pgolivera/wordle-clone)  
-  React-based version of the classic game. Includes state management, custom hooks, and a clean UI.  
+- [**DiagnoVet**](https://github.com/pgolivera/diagnovet)
+  Transforming veterinary medicine with artificial intelligence. Built with TypeScript.
 
-- [**E-commerce Demo**](https://github.com/pgolivera/ecommerce-demo)  
-  Frontend prototype for an online store built with React + TypeScript, featuring testing with Vitest.  
+- [**Ceci Web**](https://github.com/pgolivera/ceci-web)
+  Professional website with SEO optimization, Mercado Pago integration, and scalable React architecture.
 
-- [**React Native App**](https://github.com/pgolivera/react-native-demo)  
-  Mobile demo app showcasing responsive UI, performance optimizations, and navigation patterns.  
+- [**Pendientes App**](https://github.com/pgolivera/pendientes-React-Ts)
+  Task management app built with React and TypeScript.  
 
 ---
 
 ## 📈 GitHub Stats
-![Pablo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pgolivera&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pgolivera&theme=default)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pgolivera&theme=default)
 
 
 

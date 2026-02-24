@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "WebFetch(domain:github.com)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:streak-stats.demolab.com)",
+      "WebFetch(domain:github-profile-summary-cards.vercel.app)"
+    ]
+  }
+}
