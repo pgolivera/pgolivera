@@ -43,7 +43,7 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 
 ## 🔄 Latest Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/pgolivera/diagnovet/pull/22) in [pgolivera/diagnovet](https://github.com/pgolivera/diagnovet)
+1. 💪 Opened PR [#3](https://github.com/pgolivera/pgo-solutions-landingpage/pull/3) in [pgolivera/pgo-solutions-landingpage](https://github.com/pgolivera/pgo-solutions-landingpage)
 <!--END_SECTION:activity-->
 
 ---
