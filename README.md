@@ -1,7 +1,7 @@
 # Hi, I’m Pablo Olivera 👋
 
-Frontend Engineer passionate about building **accessible**, **high-performance** interfaces with **React** and **TypeScript**.  
-I enjoy solving complex problems, writing clean code, and making the web a better place.
+Frontend Engineer building **[PGO Solutions](https://github.com/pgolivera/pgo-solutions-landingpage)** — a suite of specialized Micro SaaS products.  
+Passionate about crafting **accessible**, **high-performance** interfaces with **React** and **TypeScript**.
 
 ---
 
@@ -20,14 +20,14 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 
 ## 🌟 Featured Projects
 
-- [**DiagnoVet**](https://github.com/pgolivera/diagnovet)
-  Transforming veterinary medicine with artificial intelligence. Built with TypeScript.
+- [**PGO Solutions**](https://github.com/pgolivera/pgo-solutions-landingpage)  
+  Digital hub for a suite of Micro SaaS products. High-performance, mobile-first landing page built with React and TypeScript.
 
-- [**Ceci Web**](https://github.com/pgolivera/ceci-web)
+- [**DiagnoVet**](https://github.com/pgolivera/diagnovet)  
+  AI-powered platform transforming veterinary medicine. Built with TypeScript.
+
+- [**Ceci Web**](https://github.com/pgolivera/ceci-web)  
   Professional website with SEO optimization, Mercado Pago integration, and scalable React architecture.
-
-- [**Pendientes App**](https://github.com/pgolivera/pendientes-React-Ts)
-  Task management app built with React and TypeScript.  
 
 ---
 
@@ -36,6 +36,8 @@ I enjoy solving complex problems, writing clean code, and making the web a bette
 ![GitHub Streak](https://streak-stats.demolab.com?user=pgolivera&theme=default)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pgolivera&theme=default)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pgolivera&theme=github-compact&hide_border=true)
 
 
 
